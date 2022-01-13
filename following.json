@@ -1,0 +1,3663 @@
+[
+  {
+    "handle": "philhawksworth",
+    "name": "Phil Hawksworth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/893428734111469569/YRyRapXi_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/philhawksworth"
+  },
+  {
+    "handle": "codingphase",
+    "name": "CodingPhase.com",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1156986672501932032/PcW6jlsL_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/codingphase"
+  },
+  {
+    "handle": "realfawazsullia",
+    "name": "Fawaz",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1474584957217648640/aLDqthwC_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/realfawazsullia"
+  },
+  {
+    "handle": "Reinie13",
+    "name": "Reinhardt Venter",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1410555202651004932/GcD42UUf_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Reinie13"
+  },
+  {
+    "handle": "SankarMeenakshi",
+    "name": "Meenakshi_Sankar ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1459913798077140997/sIXKnYUE_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/SankarMeenakshi"
+  },
+  {
+    "handle": "junaidshaikh_js",
+    "name": "Junaid ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1396519817486553090/mjTEvbux_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/junaidshaikh_js"
+  },
+  {
+    "handle": "AdiSreyaj",
+    "name": "Adithya Sreyaj",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1453540707294072838/nHn3I7UT_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/AdiSreyaj"
+  },
+  {
+    "handle": "CodingIsCoool",
+    "name": "Yash",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1349057456119418884/y8vL3i70_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/CodingIsCoool"
+  },
+  {
+    "handle": "jamaruuuu",
+    "name": "Jamal Moir",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1470883957902172165/o7uHTqeW_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/jamaruuuu"
+  },
+  {
+    "handle": "Vinaystwt",
+    "name": "Vinay Sharma",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1413766958281990145/--os1eLq_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Vinaystwt"
+  },
+  {
+    "handle": "devatTheCave",
+    "name": "Mahmood Tareq",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1421078107075842053/8cc_ZFFY_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/devatTheCave"
+  },
+  {
+    "handle": "phoenix_ykp",
+    "name": "Yashaswi Patil",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478047109014122501/Zjoqk3uc_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/phoenix_ykp"
+  },
+  {
+    "handle": "brainofnat",
+    "name": "Natalie Taylor ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1399919038872973312/e9e6kTyu_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/brainofnat"
+  },
+  {
+    "handle": "ZakLaughton",
+    "name": "Zak Laughton ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1420392483683438600/cAELcTIC_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ZakLaughton"
+  },
+  {
+    "handle": "Kokaneka",
+    "name": "Kapeel Kokane",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1372919009939652612/E9s309tH_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Kokaneka"
+  },
+  {
+    "handle": "pikax_dev",
+    "name": "Carlos Rodrigues",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1212439585004957696/GsXxve2h_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/pikax_dev"
+  },
+  {
+    "handle": "kais_blog",
+    "name": "Kai ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1433407467728293894/U3vxRIRx_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/kais_blog"
+  },
+  {
+    "handle": "maibells0",
+    "name": "maibells0",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1251466369700265984/mYf8v7-m_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/maibells0"
+  },
+  {
+    "handle": "Adyasha8105",
+    "name": "Adyasha M",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481344901074026496/-05VqONo_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Adyasha8105"
+  },
+  {
+    "handle": "Steve8708",
+    "name": "Steve Sewell",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1310631475306401792/23DVFeUv_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Steve8708"
+  },
+  {
+    "handle": "tweevtran",
+    "name": "Vy Tran",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1473379546934255621/xqLzyaWF_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/tweevtran"
+  },
+  {
+    "handle": "hey_Ololade",
+    "name": "Ololade ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1453876948522831874/DCd1J2C1_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/hey_Ololade"
+  },
+  {
+    "handle": "kangle_lin",
+    "name": "Kangle Lin",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1265760915405692928/g_AV4kBK_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/kangle_lin"
+  },
+  {
+    "handle": "ParvSondhi",
+    "name": "Parv",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1399934558506602501/tCOK9kbF_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ParvSondhi"
+  },
+  {
+    "handle": "redmonborinez",
+    "name": "Redmon Borinez",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1415904712809848834/rGWFkGuh_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/redmonborinez"
+  },
+  {
+    "handle": "JonathanHillis",
+    "name": "Jon Hillis (",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1475951044253274114/XImMKxrl_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/JonathanHillis"
+  },
+  {
+    "handle": "Alpine_JS",
+    "name": "AlpineJS",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1216548453871951873/9xHO0vCF_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Alpine_JS"
+  },
+  {
+    "handle": "yourmobilegeek",
+    "name": "Ariana Davis",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1434904388921745417/4RMoLB3W_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/yourmobilegeek"
+  },
+  {
+    "handle": "dannypostmaa",
+    "name": "dannypostma.eth (",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1453225547883028484/oNis621S_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/dannypostmaa"
+  },
+  {
+    "handle": "zerotousers",
+    "name": "Darko",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1334214097144061952/b0v0VRgV_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/zerotousers"
+  },
+  {
+    "handle": "rikschennink",
+    "name": "Rik Schennink",
+    "photoUrl": "https://pbs.twimg.com/profile_images/776714243173474304/ByDDFCvI_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/rikschennink"
+  },
+  {
+    "handle": "davidhasovic",
+    "name": "David Hasovic",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1352218265355956228/KWKX1m2D_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/davidhasovic"
+  },
+  {
+    "handle": "denicmarko",
+    "name": "Marko ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1308385514744098816/oDXuaci__bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/denicmarko"
+  },
+  {
+    "handle": "JacobMGEvans",
+    "name": "Jacob M-G Evans ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478764584383262721/GaPgKKzd_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/JacobMGEvans"
+  },
+  {
+    "handle": "mccrmx",
+    "name": "Chris McCormick",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1411857864914739202/rXfd03hL_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/mccrmx"
+  },
+  {
+    "handle": "codingyuri",
+    "name": "yuri 유리 ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1479718687158726666/BEYFtA4y_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/codingyuri"
+  },
+  {
+    "handle": "oliverjumpertz",
+    "name": "Oliver Jumpertz",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1458152201344495624/tW6dBUm6_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/oliverjumpertz"
+  },
+  {
+    "handle": "michaelaubry",
+    "name": "spacedust.eth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1448526939145211906/tNY6_hgq_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/michaelaubry"
+  },
+  {
+    "handle": "thestevenmellor",
+    "name": "Steve Mellor ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1457514291880505345/G10h5vF1_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/thestevenmellor"
+  },
+  {
+    "handle": "tanoaksam",
+    "name": "Sam Sycamore ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1480357455817289728/06Zt2PZx_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/tanoaksam"
+  },
+  {
+    "handle": "SRuhleder",
+    "name": "Sebastian ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1464972599725891589/KPw3LGkM_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/SRuhleder"
+  },
+  {
+    "handle": "kiinitix",
+    "name": "Kabir Dhruw",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1448916043095699457/82EbtWxu_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/kiinitix"
+  },
+  {
+    "handle": "kishorelive",
+    "name": "Kishore Nallan",
+    "photoUrl": "https://pbs.twimg.com/profile_images/70745130/blotus_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/kishorelive"
+  },
+  {
+    "handle": "toppledebt",
+    "name": "Topple",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1410215956056576004/NGjIDqNz_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/toppledebt"
+  },
+  {
+    "handle": "ryanckulp",
+    "name": "Ryan Kulp ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1454709574314106880/11-eQh7Z_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ryanckulp"
+  },
+  {
+    "handle": "matthodge",
+    "name": "Matthew Hodgkins",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1016380530126974976/1rwsCtAs_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/matthodge"
+  },
+  {
+    "handle": "brad_frost",
+    "name": "Brad Frost",
+    "photoUrl": "https://pbs.twimg.com/profile_images/907811115459125248/i8AzK6gR_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/brad_frost"
+  },
+  {
+    "handle": "scottjehl",
+    "name": "Scott Jehl",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1458081709291868178/7bFb7AbF_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/scottjehl"
+  },
+  {
+    "handle": "jayroh",
+    "name": "\"Joel\" - One syllable.",
+    "photoUrl": "https://pbs.twimg.com/profile_images/884407848209395712/cX7m9WVF_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/jayroh"
+  },
+  {
+    "handle": "serverwentdown",
+    "name": "Ambrose Chua",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1281968761877061633/p4nrkTqN_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/serverwentdown"
+  },
+  {
+    "handle": "mbostock",
+    "name": "Mike Bostock",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1460313247307821059/y_O7pfWy_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/mbostock"
+  },
+  {
+    "handle": "Dieulot",
+    "name": "Alexandre Dieulot",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1198638814996119552/4hzOGf12_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Dieulot"
+  },
+  {
+    "handle": "itsLeo_m",
+    "name": "Leo M. ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1346348000692621312/MH8vgdbA_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/itsLeo_m"
+  },
+  {
+    "handle": "ctietze",
+    "name": "Christian Tietze",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1240616061147455488/cQeFEgsi_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ctietze"
+  },
+  {
+    "handle": "thisDaveJ",
+    "name": "Dave Johnson (thisDaveJ.com)",
+    "photoUrl": "https://pbs.twimg.com/profile_images/699810360866410497/1zwENwk1_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/thisDaveJ"
+  },
+  {
+    "handle": "j_brgnz",
+    "name": "Juel",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1393946898898300930/X-N99ikU_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/j_brgnz"
+  },
+  {
+    "handle": "earthlingworks",
+    "name": "Ruben Gamez",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1445485564317208580/gEK0zGi0_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/earthlingworks"
+  },
+  {
+    "handle": "chrisguillebeau",
+    "name": "Chris Guillebeau",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1216510891677454336/SplrWIVX_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/chrisguillebeau"
+  },
+  {
+    "handle": "Dan_Canetti",
+    "name": "Daniel Canetti",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1400012171984113665/SdYDwIzA_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Dan_Canetti"
+  },
+  {
+    "handle": "writeas__",
+    "name": "Write.as",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1336307638888505345/lt9m4vzq_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/writeas__"
+  },
+  {
+    "handle": "MaruLucenaT",
+    "name": "Maru",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1366426582966018054/V1B1tbxz_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/MaruLucenaT"
+  },
+  {
+    "handle": "smallseasonsbot",
+    "name": "Small Seasons",
+    "photoUrl": "https://pbs.twimg.com/profile_images/885177445174853632/7bbQ5TAK_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/smallseasonsbot"
+  },
+  {
+    "handle": "johnsorrentino",
+    "name": "John Sorrentino",
+    "photoUrl": "https://pbs.twimg.com/profile_images/873384724445618182/_WJJhTvw_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/johnsorrentino"
+  },
+  {
+    "handle": "Tyler_Potts_",
+    "name": "Tyler Potts",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1400726972599308292/wCDbpzKZ_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Tyler_Potts_"
+  },
+  {
+    "handle": "WritingStartup",
+    "name": "Writing Startup",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1330446634510151682/Ln49rQLO_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/WritingStartup"
+  },
+  {
+    "handle": "BasileSamel",
+    "name": "baz",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1469596397565579264/3A_Huif8_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/BasileSamel"
+  },
+  {
+    "handle": "whizzzoe",
+    "name": "Zoe Chew",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1046326521227444224/nvhcddwE_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/whizzzoe"
+  },
+  {
+    "handle": "JanelSGM",
+    "name": "Janel",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1281644754040696832/kOqgYgKQ_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/JanelSGM"
+  },
+  {
+    "handle": "_egoistlily",
+    "name": "EGÖlST",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1474601701571457029/FE5BudmU_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/_egoistlily"
+  },
+  {
+    "handle": "AndreyAzimov",
+    "name": "Andrey Azimov",
+    "photoUrl": "https://pbs.twimg.com/profile_images/977008401883447296/WIAVtdk4_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/AndreyAzimov"
+  },
+  {
+    "handle": "coderholic",
+    "name": "Ben Dowling",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1315494012325826561/UfA18HKk_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/coderholic"
+  },
+  {
+    "handle": "Pocket_geek",
+    "name": "Kassie Green",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1126073334540664832/qI3vBt3y_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Pocket_geek"
+  },
+  {
+    "handle": "ungatedmedia",
+    "name": "Ungated",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1394067996507709443/2SKTI0rx_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ungatedmedia"
+  },
+  {
+    "handle": "geoff_selby",
+    "name": "GeoffCodesThings",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1276301761951735819/cGKQPwQI_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/geoff_selby"
+  },
+  {
+    "handle": "LostInTangent",
+    "name": "Jonathan Carter",
+    "photoUrl": "https://pbs.twimg.com/profile_images/771496206/Twitter_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/LostInTangent"
+  },
+  {
+    "handle": "tjaddison",
+    "name": "Timothy Addison",
+    "photoUrl": "https://pbs.twimg.com/profile_images/904392478647779329/kPIwssn3_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/tjaddison"
+  },
+  {
+    "handle": "_jonesian",
+    "name": "Ian ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1462568957819473921/QT24N_Rh_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/_jonesian"
+  },
+  {
+    "handle": "JedBridges",
+    "name": "Jed Bridges",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1181419356976078848/oVhyyHn5_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/JedBridges"
+  },
+  {
+    "handle": "ivorjetski",
+    "name": "Ben Evans",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1473600571471024134/fNiozDae_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ivorjetski"
+  },
+  {
+    "handle": "nicolaskruchten",
+    "name": "Nicolas Kruchten",
+    "photoUrl": "https://pbs.twimg.com/profile_images/849709379897049088/gaUfsXgy_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/nicolaskruchten"
+  },
+  {
+    "handle": "jcs",
+    "name": "joshua stein",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1469103510432227329/PH04rDns_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/jcs"
+  },
+  {
+    "handle": "APompliano",
+    "name": "Pomp ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1362803074121760768/IxlsR42x_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/APompliano"
+  },
+  {
+    "handle": "AmanKum1406",
+    "name": "Aman ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1336289064765411328/3tTaaasl_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/AmanKum1406"
+  },
+  {
+    "handle": "antdke",
+    "name": "Anthony Diké",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1467903278902095878/AcIKTu9c_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/antdke"
+  },
+  {
+    "handle": "ProductPersonHQ",
+    "name": "TheProductPerson",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1265026473058021377/Xi4oQPwP_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ProductPersonHQ"
+  },
+  {
+    "handle": "yongfook",
+    "name": "Jon Yongfook",
+    "photoUrl": "https://pbs.twimg.com/profile_images/691543635779649536/TbHKbCCc_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/yongfook"
+  },
+  {
+    "handle": "alicellemee",
+    "name": "Alice Lemée",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1358492520255258624/3uxbaap__bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/alicellemee"
+  },
+  {
+    "handle": "tobiasahlin",
+    "name": "Tobias Ahlin",
+    "photoUrl": "https://pbs.twimg.com/profile_images/763026834485370881/23T_paLf_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/tobiasahlin"
+  },
+  {
+    "handle": "IMAC2",
+    "name": "Álvaro Trigo  ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/481764787089440769/NNWc-S_V_bigger.jpeg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/IMAC2"
+  },
+  {
+    "handle": "IamNuxt",
+    "name": "Alexandre Chopin",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1255027239458091009/qMp_q8vy_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/IamNuxt"
+  },
+  {
+    "handle": "ondrabus",
+    "name": "Ondrej Polesny",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1024572585785393153/Kv-4SZh3_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ondrabus"
+  },
+  {
+    "handle": "tommyvedvik",
+    "name": "Tommy Vedvik",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1080926415124680706/s12jzYmq_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/tommyvedvik"
+  },
+  {
+    "handle": "patorjk",
+    "name": "Patrick Gillespie",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1445215548799860739/Mq_apIbu_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/patorjk"
+  },
+  {
+    "handle": "mcsee1",
+    "name": "Maxi Contieri",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1373047744856797185/7185nQK8_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/mcsee1"
+  },
+  {
+    "handle": "dmokafa",
+    "name": "Daniel Moka",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1223174599090810880/0ifheaFc_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/dmokafa"
+  },
+  {
+    "handle": "coreyhainesco",
+    "name": "Corey Haines | coreyhaines.eth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1433967850557820931/IUE9XF5m_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/coreyhainesco"
+  },
+  {
+    "handle": "lynnetye",
+    "name": "Lynne Tye",
+    "photoUrl": "https://pbs.twimg.com/profile_images/378800000136134265/ef44a05794210f8aeef7c18fa059bd35_bigger.jpeg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/lynnetye"
+  },
+  {
+    "handle": "AWaselnuk",
+    "name": "Adam Waselnuk",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1322911530854350849/s80gonN9_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/AWaselnuk"
+  },
+  {
+    "handle": "BrianNorgard",
+    "name": "Norgard",
+    "photoUrl": "https://pbs.twimg.com/profile_images/3610854526/1fae6073057ae5725bebbc0815c0123d_bigger.jpeg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/BrianNorgard"
+  },
+  {
+    "handle": "johnjoubert",
+    "name": "John Joubert",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1287138528623759366/rZXWJrpl_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/johnjoubert"
+  },
+  {
+    "handle": "Nutlope",
+    "name": "Hassan El Mghari",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1256749436941881344/5WV3lmDm_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Nutlope"
+  },
+  {
+    "handle": "jmikolay",
+    "name": "Justin Mikolay ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1265259581569142787/ACiSl0ol_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/jmikolay"
+  },
+  {
+    "handle": "sulco",
+    "name": "Tomek Sułkowski",
+    "photoUrl": "https://pbs.twimg.com/profile_images/799913500600598528/z4Wctlai_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/sulco"
+  },
+  {
+    "handle": "kealanparr",
+    "name": "Kealan",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1281342794074935296/2sJng_ND_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/kealanparr"
+  },
+  {
+    "handle": "calebrown",
+    "name": "Caleb Brown",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1207191072109191168/Uxinymq1_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/calebrown"
+  },
+  {
+    "handle": "DivDev_",
+    "name": "Dimitri ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1234034875835002881/-X_Hq1g3_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/DivDev_"
+  },
+  {
+    "handle": "shreyas",
+    "name": "Shreyas Doshi",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1268224036418408449/TFTKnr___bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/shreyas"
+  },
+  {
+    "handle": "quire_io",
+    "name": "Quire",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1456495472806621184/33M5FP_q_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/quire_io"
+  },
+  {
+    "handle": "_maxpou",
+    "name": "Maxence Poutord",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1192734165021741056/l2s8q4BQ_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/_maxpou"
+  },
+  {
+    "handle": "adambard",
+    "name": "Adam Bard:wq",
+    "photoUrl": "https://pbs.twimg.com/profile_images/984967013142487041/LNhb4tNU_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/adambard"
+  },
+  {
+    "handle": "Shpigford",
+    "name": "Josh Pigford",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1444432899328065537/hjQCV9du_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Shpigford"
+  },
+  {
+    "handle": "jonkantner",
+    "name": "Jon Kantner",
+    "photoUrl": "https://pbs.twimg.com/profile_images/630813238049943556/iVtkvbrT_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/jonkantner"
+  },
+  {
+    "handle": "nickfromseattle",
+    "name": "Nick Jordan",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1279835585738207232/BkQsPSQ-_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/nickfromseattle"
+  },
+  {
+    "handle": "TheRohitDas",
+    "name": "Rohit Das",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1442514376754225152/FkEPLt02_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/TheRohitDas"
+  },
+  {
+    "handle": "weibenfalk",
+    "name": "Thomas Weibenfalk",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1360521047250984961/pjre-XE6_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/weibenfalk"
+  },
+  {
+    "handle": "imdshadab",
+    "name": "Shadab",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1260436781998182406/fi1Wzm26_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/imdshadab"
+  },
+  {
+    "handle": "idoshamun",
+    "name": "Ido Shamun",
+    "photoUrl": "https://pbs.twimg.com/profile_images/976737141047906304/FLqj6Z5f_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/idoshamun"
+  },
+  {
+    "handle": "Pratioss",
+    "name": "Pratiksha",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1279440229225476098/etK7oUeo_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Pratioss"
+  },
+  {
+    "handle": "Codeanddream",
+    "name": "Mina.D",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1264711142594641922/c3yX1kbX_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Codeanddream"
+  },
+  {
+    "handle": "john_allen__",
+    "name": "johnallen ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1466021388523823105/6DW5lEZ-_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/john_allen__"
+  },
+  {
+    "handle": "jeffistyping",
+    "name": "jeff",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1466895825011945479/v4qLBleU_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/jeffistyping"
+  },
+  {
+    "handle": "mjwhansen",
+    "name": "Michele Hansen ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1465977675298877441/tmfbc-bp_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/mjwhansen"
+  },
+  {
+    "handle": "MathiasHansen",
+    "name": "Mathias Hansen",
+    "photoUrl": "https://pbs.twimg.com/profile_images/378800000138650730/ee2cfccb298765df3b07d4858e4296bd_bigger.jpeg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/MathiasHansen"
+  },
+  {
+    "handle": "LucieBaratte",
+    "name": "Lucie Baratte",
+    "photoUrl": "https://pbs.twimg.com/profile_images/918802649033535488/PJH10e3p_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/LucieBaratte"
+  },
+  {
+    "handle": "volkandkaya",
+    "name": "Volkan Kaya",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1039477099768295424/DkFxqf2V_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/volkandkaya"
+  },
+  {
+    "handle": "SuhailKakar",
+    "name": "Suhail Kakar",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1470766467721408516/RfHc-_jz_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/SuhailKakar"
+  },
+  {
+    "handle": "YuriDevAT",
+    "name": "𝕁𝕦𝕝𝕚𝕒 ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1467495467013582853/CluAE_PV_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/YuriDevAT"
+  },
+  {
+    "handle": "kristen_bau",
+    "name": "Kristen Bautista",
+    "photoUrl": "https://pbs.twimg.com/profile_images/624494954421727232/vms1ZOxR_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/kristen_bau"
+  },
+  {
+    "handle": "dayle_design",
+    "name": "Dayle Zielentino",
+    "photoUrl": "https://pbs.twimg.com/profile_images/789027521425727489/yjL_pD5v_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/dayle_design"
+  },
+  {
+    "handle": "bshinholser",
+    "name": "Brandon",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1467877089479114754/Cc5qu-u4_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/bshinholser"
+  },
+  {
+    "handle": "heyblake",
+    "name": "Blake Emal",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1379624292497772550/yMHj19zQ_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/heyblake"
+  },
+  {
+    "handle": "capeandcode",
+    "name": "Prashant",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481341012316684291/90FLM5V__bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/capeandcode"
+  },
+  {
+    "handle": "probablyaayushi",
+    "name": "Aayushi Bhardwaj",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1471066833566396417/eiCJKkUT_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/probablyaayushi"
+  },
+  {
+    "handle": "joshuarutkowski",
+    "name": "joshrutkowski.eth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1444435004260380673/tbg8VFDD_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/joshuarutkowski"
+  },
+  {
+    "handle": "maryam_farsh",
+    "name": "Maryam",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1464631171405565953/M8YIMV8g_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/maryam_farsh"
+  },
+  {
+    "handle": "lizkenyon07",
+    "name": "Elizabeth Kenyon",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1320504211876900864/T_Yftx99_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/lizkenyon07"
+  },
+  {
+    "handle": "apoorva1gupta",
+    "name": "Apoorva ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1335173445051588608/fv86OCgz_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/apoorva1gupta"
+  },
+  {
+    "handle": "ReShabby",
+    "name": "Travelling Coder | Rishab",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1465602433598431239/b-qMAYZJ_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ReShabby"
+  },
+  {
+    "handle": "zahrakhadijha",
+    "name": "Zahra ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1448501145530511361/s6nuiioC_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/zahrakhadijha"
+  },
+  {
+    "handle": "corinnpope",
+    "name": "Corinn Pope",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1215315618339094528/nG4CfLvD_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/corinnpope"
+  },
+  {
+    "handle": "searchbound",
+    "name": "Peter Askew",
+    "photoUrl": "https://pbs.twimg.com/profile_images/943197173985841152/a6MN3_2A_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/searchbound"
+  },
+  {
+    "handle": "joeypdevllc",
+    "name": "Joey P",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1444762321960714250/WDgfyzVA_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/joeypdevllc"
+  },
+  {
+    "handle": "RealChrisSean",
+    "name": "Chris Sean",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1471243101528223744/rbwS00La_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/RealChrisSean"
+  },
+  {
+    "handle": "DirtyDataGirl",
+    "name": "Andrea Brice",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1445455110075604994/L0n85kD-_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/DirtyDataGirl"
+  },
+  {
+    "handle": "MakadiaHarsh",
+    "name": "Harsh Makadia",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1457669579740647434/sDMbdiZG_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/MakadiaHarsh"
+  },
+  {
+    "handle": "gaganbiyani",
+    "name": "Gagan Biyani ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1215648592125419522/Fo5FEWoN_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/gaganbiyani"
+  },
+  {
+    "handle": "dunne_killian",
+    "name": "Killian Dunne",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1479233568773742595/KKOyVntX_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/dunne_killian"
+  },
+  {
+    "handle": "louisduboscq",
+    "name": "Louis Duboscq",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1451144246728314880/hjK-f-LB_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/louisduboscq"
+  },
+  {
+    "handle": "jmckinven",
+    "name": "James McKinven",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1322289125001744385/sTFS97qb_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/jmckinven"
+  },
+  {
+    "handle": "justinkan",
+    "name": "Justin Kan ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1480960449726144515/0JYzZ6PK_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/justinkan"
+  },
+  {
+    "handle": "threehourcoffee",
+    "name": "Marie Ng ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1259999782803628032/pY0ymq0E_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/threehourcoffee"
+  },
+  {
+    "handle": "SophiaLeeHyun",
+    "name": "Sophia Lee 소현",
+    "photoUrl": "https://pbs.twimg.com/profile_images/819594718711451648/Tut9QzU7_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/SophiaLeeHyun"
+  },
+  {
+    "handle": "zeesh_ali2",
+    "name": "Zeeshan Ali",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1408205175630745607/FtkagQ8g_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/zeesh_ali2"
+  },
+  {
+    "handle": "margo_hdb",
+    "name": "Margo McCabe",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1352298223784759302/Phv3x24k_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/margo_hdb"
+  },
+  {
+    "handle": "trnelson",
+    "name": "Travis Nelson ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1405553404039024640/d-ItWyfj_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/trnelson"
+  },
+  {
+    "handle": "ValentineStack",
+    "name": "Valentine",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1438587807228784640/o0qFcnRZ_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/ValentineStack"
+  },
+  {
+    "handle": "Svejdam",
+    "name": "Martin Svejda",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1412952604037029895/megj0-jt_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Svejdam"
+  },
+  {
+    "handle": "spences10",
+    "name": "Scott Spence ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1438534136008937477/O9lW3Pji_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/spences10"
+  },
+  {
+    "handle": "vensykrishna",
+    "name": "Vensy.eth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481364290057949184/u_RAcq0V_bigger.png",
+    "keep": false,
+    "profileUrl": "https://twitter.com/vensykrishna"
+  },
+  {
+    "handle": "vsnthdev",
+    "name": "Vasanth Srivatsa",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1324385572543082497/mdNqmluF_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/vsnthdev"
+  },
+  {
+    "handle": "abhibisht97",
+    "name": "Abhi",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1235614807966941184/f9oLfZKg_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/abhibisht97"
+  },
+  {
+    "handle": "Ishansharma7390",
+    "name": "Ishan Sharma",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1264784328107503618/cGQAuwTV_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Ishansharma7390"
+  },
+  {
+    "handle": "warikoo",
+    "name": "Ankur Warikoo",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1156881198582382592/yUbrONnS_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/warikoo"
+  },
+  {
+    "handle": "jmoserr",
+    "name": "Jeremy Moser",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1362890164289216513/o1nrJALT_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/jmoserr"
+  },
+  {
+    "handle": "NikushD",
+    "name": "Nikush.js",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1426545036964028416/nw4zlkO5_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/NikushD"
+  },
+  {
+    "handle": "Naina_2728",
+    "name": "NAINA",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1474305926190358532/cdoYp3pT_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Naina_2728"
+  },
+  {
+    "handle": "Brslv",
+    "name": "Borislav Grigorov",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1397114262380765185/XYeUmkt6_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Brslv"
+  },
+  {
+    "handle": "TheDanBlows",
+    "name": "Dan Blows",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1316339850895855618/cdPRNT65_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/TheDanBlows"
+  },
+  {
+    "handle": "SalesforceTay",
+    "name": "Taylor__c",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1395864586721628160/LX_Njh0R_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/SalesforceTay"
+  },
+  {
+    "handle": "HelloKrystalWu",
+    "name": "Krystal Wu",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1393545582233464834/GYyBWH7j_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/HelloKrystalWu"
+  },
+  {
+    "handle": "TheAnkurTyagi",
+    "name": "Ankur",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1469938615086112770/ltuoYqlq_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/TheAnkurTyagi"
+  },
+  {
+    "handle": "_georgemoller",
+    "name": "George Moller",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1409915212157833223/OX8dfCpn_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/_georgemoller"
+  },
+  {
+    "handle": "nachoiacovino",
+    "name": "Nacho Iacovino ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1455707950341890051/flRfKMOq_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/nachoiacovino"
+  },
+  {
+    "handle": "mellisreviews",
+    "name": "Mark Ellis Reviews",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1275818803750985733/whSffoJn_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/mellisreviews"
+  },
+  {
+    "handle": "Krishn_aGupta",
+    "name": "Krishna (◔‿◔)",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1420568539581140992/5sO4aP1e_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Krishn_aGupta"
+  },
+  {
+    "handle": "AsmaaCodes",
+    "name": "Asma Codes ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1396183663453380609/JPtPmzQv_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/AsmaaCodes"
+  },
+  {
+    "handle": "BetaScribbles",
+    "name": "Firdaus H. Salim",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1417382404537397255/xqgfCWbd_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/BetaScribbles"
+  },
+  {
+    "handle": "joe_lurie",
+    "name": "Joe Lurie • Big Life Creator",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1403494637294133248/hdUWAuxJ_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/joe_lurie"
+  },
+  {
+    "handle": "Ryan_Magoon",
+    "name": "Ryan Magoon playing beat saber",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478478534586904578/rodvU6Xi_bigger.jpg",
+    "keep": false,
+    "profileUrl": "https://twitter.com/Ryan_Magoon"
+  },
+  {
+    "handle": "iamjonjackson",
+    "name": "Jon Jackson",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1461447291345244160/Y5ACwFhX_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/iamjonjackson"
+  },
+  {
+    "handle": "morozov_dev",
+    "name": "Aleksandr Morozov",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1434500248353783809/vhd1GQT2_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/morozov_dev"
+  },
+  {
+    "handle": "eugZolotarenko",
+    "name": "Eugene ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481268518826147842/Vll_SDIx_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/eugZolotarenko"
+  },
+  {
+    "handle": "MaedahBatool",
+    "name": "Maedah Batool",
+    "photoUrl": "https://pbs.twimg.com/profile_images/546347319407280128/xHQ-ILS3_bigger.jpeg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/MaedahBatool"
+  },
+  {
+    "handle": "marioarrioladev",
+    "name": "Mario Arriola",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1381904963274739717/p06bhrHj_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/marioarrioladev"
+  },
+  {
+    "handle": "EyalShay2",
+    "name": "𝐄𝐬𝐡 ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1471111676065890306/lNzVJvaY_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/EyalShay2"
+  },
+  {
+    "handle": "swapnakpanda",
+    "name": "Swapna Kumar Panda ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1417803375567990785/dMIRz-YG_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/swapnakpanda"
+  },
+  {
+    "handle": "Mahima13_dev",
+    "name": "Mahima gupta",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1434580161861586945/KrkX8vEa_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Mahima13_dev"
+  },
+  {
+    "handle": "AlrawasAbed",
+    "name": "Abed | Software Engineer",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1436922747414794246/GB8eDb18_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/AlrawasAbed"
+  },
+  {
+    "handle": "ZcroninDev",
+    "name": "Zach Cronin",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1430313910905749511/QONx-qU4_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ZcroninDev"
+  },
+  {
+    "handle": "VirajCz",
+    "name": "Viraj Chhajed (",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1443175459328458755/WAHQHjTo_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/VirajCz"
+  },
+  {
+    "handle": "d__raptis",
+    "name": "Jim Raptis",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478002302900396039/n2Lrikxx_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/d__raptis"
+  },
+  {
+    "handle": "heybereket",
+    "name": "Bereket",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1373249198800449540/3i37LTfG_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/heybereket"
+  },
+  {
+    "handle": "thisiskp_",
+    "name": "KP",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1288449070344937473/fKlvccnM_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/thisiskp_"
+  },
+  {
+    "handle": "NdamukongSuh",
+    "name": "Ndamukong Suh",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1394391886257868813/GVNpkl7t_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/NdamukongSuh"
+  },
+  {
+    "handle": "aronkor",
+    "name": "Aron Korenblit",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1219780069981290497/f7GcqdCv_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/aronkor"
+  },
+  {
+    "handle": "domhabersack",
+    "name": "Dom Habersack",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1194720522896060416/whCjVfCx_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/domhabersack"
+  },
+  {
+    "handle": "onwardLyn",
+    "name": " Lyn Kim",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1447615376422957057/N899t6Pw_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/onwardLyn"
+  },
+  {
+    "handle": "InTake_Anthony",
+    "name": "Anthony McGuigan",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1409949036178718725/qMmi_ClZ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/InTake_Anthony"
+  },
+  {
+    "handle": "darentsmith",
+    "name": "Daren | darentsmith.eth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1260066380377804800/18pDPMuB_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/darentsmith"
+  },
+  {
+    "handle": "InquisitorJax",
+    "name": "Malcolm Jack",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1352622087593222144/3VhGRMxd_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/InquisitorJax"
+  },
+  {
+    "handle": "Jibran_05",
+    "name": "Jibran Khalil",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1445120917894582272/uwUdKCPc_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Jibran_05"
+  },
+  {
+    "handle": "YousXPB",
+    "name": "Yous",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1279758494447603715/gUCbzYxh_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/YousXPB"
+  },
+  {
+    "handle": "perryraskin",
+    "name": "Perry Raskin",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1362460906387623948/WJecWmpA_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/perryraskin"
+  },
+  {
+    "handle": "FitFounder",
+    "name": "Dan Go",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1279092409587163137/eN82f_KT_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/FitFounder"
+  },
+  {
+    "handle": "noahwbragg",
+    "name": "Noah Bragg",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1472024353382428674/8fNdTPMm_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/noahwbragg"
+  },
+  {
+    "handle": "tmontfitness",
+    "name": "𝗧𝗿𝗲𝘃𝗼𝗿 𝗠𝗼𝗻𝘁𝗴𝗼𝗺𝗲𝗿𝘆",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478914912323870725/h1KEjZF0_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/tmontfitness"
+  },
+  {
+    "handle": "robcsimps",
+    "name": "Rob Simpson",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1222794282983137280/hBVL3yX-_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/robcsimps"
+  },
+  {
+    "handle": "SimonHoiberg",
+    "name": "Simon Høiberg",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1452287711226867719/0wszrty-_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/SimonHoiberg"
+  },
+  {
+    "handle": "JemCopeCodes",
+    "name": "Jem Cope",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1356321101035446272/BO79-bY6_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/JemCopeCodes"
+  },
+  {
+    "handle": "rico042002",
+    "name": "Rico Miller",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1337556372536373253/4qgcO7ed_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/rico042002"
+  },
+  {
+    "handle": "VicVijayakumar",
+    "name": "Vic ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1402437420361170947/m3lKO6Yh_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/VicVijayakumar"
+  },
+  {
+    "handle": "yagudaev",
+    "name": "Michael Yagudaev ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/804372908609048577/pe50K4d1_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/yagudaev"
+  },
+  {
+    "handle": "nwbotha",
+    "name": "Nico Botha",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1433176157822885889/lZPsNST9_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/nwbotha"
+  },
+  {
+    "handle": "jones_spencera",
+    "name": "Spencer Jones ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1318383841581686784/-e5Lwjgc_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/jones_spencera"
+  },
+  {
+    "handle": "jarroddicker",
+    "name": "𝚍𝚊𝚛𝚔𝚜𝚝𝚊𝚛",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478533549758238725/99eNhTbq_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/jarroddicker"
+  },
+  {
+    "handle": "celzalejandro",
+    "name": "Celz Alejandro | Purposeful Productivity",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481208134865932292/eex9J4OS_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/celzalejandro"
+  },
+  {
+    "handle": "danielcranney",
+    "name": "Daniel Cranney",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476989526652465153/ZTOQc29Y_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/danielcranney"
+  },
+  {
+    "handle": "tomosman",
+    "name": "Ozzy.eth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478387764420923400/_t4ba4Vr_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/tomosman"
+  },
+  {
+    "handle": "mipodiw",
+    "name": "Miho",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1432740727281184769/lNoWCITh_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/mipodiw"
+  },
+  {
+    "handle": "bkh_leung",
+    "name": "Brian Leung ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481358197961408513/MkNhbWjO_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/bkh_leung"
+  },
+  {
+    "handle": "oluadedej",
+    "name": "Olu",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1379147636062703618/EzGKlVHZ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/oluadedej"
+  },
+  {
+    "handle": "TR3NTG",
+    "name": "Trent ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1330867310790402050/Si3YMJKE_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/TR3NTG"
+  },
+  {
+    "handle": "JordyPouw",
+    "name": "Jordy Pouw",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1403074176861323268/Lkhg3mdo_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/JordyPouw"
+  },
+  {
+    "handle": "elicitmind",
+    "name": "future's owner",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477674521779970052/xP6OaSxA_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/elicitmind"
+  },
+  {
+    "handle": "ReaderSam121",
+    "name": "Sam Reader",
+    "photoUrl": "https://pbs.twimg.com/profile_images/933709095131123712/qcsRXUPc_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ReaderSam121"
+  },
+  {
+    "handle": "kragerDev",
+    "name": "Matthew Krager",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1330989035746050048/tatdHh5b_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/kragerDev"
+  },
+  {
+    "handle": "AndyM84",
+    "name": "Andrew Male",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1029392457417424896/SkoQHDEi_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/AndyM84"
+  },
+  {
+    "handle": "StroutMotivateU",
+    "name": "Jenn Strout | linktr.ee/strout",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1424742204397006852/ifdwlBQl_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/StroutMotivateU"
+  },
+  {
+    "handle": "mar15sa",
+    "name": "Marissa Goldberg",
+    "photoUrl": "https://pbs.twimg.com/profile_images/566329118489194496/f_ALTi7v_bigger.jpeg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/mar15sa"
+  },
+  {
+    "handle": "notlhw",
+    "name": "Lim How Wei",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1323861883896516608/KDURIDnl_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/notlhw"
+  },
+  {
+    "handle": "leo_guinan",
+    "name": "Leo Guinan | leoguinan.eth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1475125035140468736/mbyvWG2q_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/leo_guinan"
+  },
+  {
+    "handle": "codedbyval",
+    "name": "Val ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1426617072746909700/NnFX7vUA_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/codedbyval"
+  },
+  {
+    "handle": "intelocode",
+    "name": "Abhishek Verma ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1420727107810824192/ep1aiRN2_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/intelocode"
+  },
+  {
+    "handle": "aahiknsv",
+    "name": "Vanshika ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476932868362301445/40I8i8hH_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/aahiknsv"
+  },
+  {
+    "handle": "dev_navdeep",
+    "name": "Navdeep",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1438348377939271683/aeTP9i_9_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dev_navdeep"
+  },
+  {
+    "handle": "meetjain74",
+    "name": "Meet Jain",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1428399362468552704/Puy4GS6x_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/meetjain74"
+  },
+  {
+    "handle": "Franc0Fernand0",
+    "name": "Franco Fernando ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1468520991408246784/9A7n-2ri_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Franc0Fernand0"
+  },
+  {
+    "handle": "_RossiLuca_",
+    "name": "Luca Rossi",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1418458529644617731/eiHVOzP3_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/_RossiLuca_"
+  },
+  {
+    "handle": "mathsppblog",
+    "name": "Rodrigo ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1417145621916573701/vvuwQuIO_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/mathsppblog"
+  },
+  {
+    "handle": "akoskm",
+    "name": "Akos",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1422444216433709057/uRG6zmLg_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/akoskm"
+  },
+  {
+    "handle": "michelleytlock",
+    "name": "Michelle Lock⁷",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1473089939524837376/J32aw4pD_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/michelleytlock"
+  },
+  {
+    "handle": "digitaltrouble",
+    "name": "Ben",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1450189767786782729/X4pFZ351_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/digitaltrouble"
+  },
+  {
+    "handle": "tanishka__yadav",
+    "name": "Tanishka Yadav",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1433087256256925698/WYVY766f_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/tanishka__yadav"
+  },
+  {
+    "handle": "MarcoGurnari",
+    "name": "Marco Gurnari",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477614102054944769/5Yq56FsU_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/MarcoGurnari"
+  },
+  {
+    "handle": "mynameis_davis",
+    "name": "Davis Baer",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1357735263640952833/-MiEanE7_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/mynameis_davis"
+  },
+  {
+    "handle": "thealexkates",
+    "name": "Alex Kates ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1417998238595047428/eql1yPLG_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/thealexkates"
+  },
+  {
+    "handle": "NielsCodes",
+    "name": "Niels Kersic",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1394717610382594049/Sl8RChdF_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/NielsCodes"
+  },
+  {
+    "handle": "derrickreimer",
+    "name": "Derrick Reimer",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1437948746759872523/HInfF5Mc_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/derrickreimer"
+  },
+  {
+    "handle": "01ayushgarg",
+    "name": "Ayush Garg",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1430771215241674753/3xmzJxR9_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/01ayushgarg"
+  },
+  {
+    "handle": "omamazainab_",
+    "name": "Omama ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1471496463729324039/A3iDCPAn_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/omamazainab_"
+  },
+  {
+    "handle": "coding_faith",
+    "name": "Faith",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1442152127414026243/a3kmT_Dr_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/coding_faith"
+  },
+  {
+    "handle": "luciantartea",
+    "name": "Lucian Tartea",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1179462746414432257/HBkrOkaX_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/luciantartea"
+  },
+  {
+    "handle": "begiwebhey",
+    "name": "Begi ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1427183858236018688/Yj6CD0N3_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/begiwebhey"
+  },
+  {
+    "handle": "ElvisMeisters",
+    "name": "Elvis Meisters",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1353333719797542912/hEaTEdhy_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ElvisMeisters"
+  },
+  {
+    "handle": "AbzAaron",
+    "name": "Aaron",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1412789607742251008/4EfyQM9I_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/AbzAaron"
+  },
+  {
+    "handle": "Maxwellowy",
+    "name": "Maxwell Onyeka",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1420705545476972553/q-1LBWim_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Maxwellowy"
+  },
+  {
+    "handle": "fabienschlegel",
+    "name": "Fabien ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1437056124507861004/CvT8fhOx_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/fabienschlegel"
+  },
+  {
+    "handle": "BendikMatej",
+    "name": "Matej Bendík",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481364543448453121/jS_2sYrP_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/BendikMatej"
+  },
+  {
+    "handle": "felix12777",
+    "name": "Felix Wong",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476049195878400006/hSQ8D8uY_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/felix12777"
+  },
+  {
+    "handle": "asiedu_dev",
+    "name": "Michael Asiedu ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1412229483281715202/mrlNsN5y_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/asiedu_dev"
+  },
+  {
+    "handle": "kylegawley",
+    "name": "Kyle Gawley ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1426756933739032579/ROfVocyk_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/kylegawley"
+  },
+  {
+    "handle": "rishabh_grg",
+    "name": "Rishabh Garg ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1133325132686999552/DoOHq3cR_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/rishabh_grg"
+  },
+  {
+    "handle": "sotak",
+    "name": "Marek Sotak",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1388812731524993026/Bqhb9c7Z_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/sotak"
+  },
+  {
+    "handle": "CodyMcGuffie",
+    "name": "Cody McGuffie",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1412488033434099712/UsuFrigL_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/CodyMcGuffie"
+  },
+  {
+    "handle": "ramykhuffash",
+    "name": "Ramy",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1212880044475011073/tlSjAkPd_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ramykhuffash"
+  },
+  {
+    "handle": "NitiSarran",
+    "name": "Niti Sarran",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476362885492355078/v5YU8n4-_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/NitiSarran"
+  },
+  {
+    "handle": "AngeZanetti",
+    "name": "Xavier Coiffard",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1329753184320053252/vOn-iEc7_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/AngeZanetti"
+  },
+  {
+    "handle": "kendalmintcode",
+    "name": "Rob Kendal ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1452242848364044300/ntMzgAsW_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/kendalmintcode"
+  },
+  {
+    "handle": "CameronBardell",
+    "name": "Cameron Bardell",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1197472111654326273/jS-tsb6Y_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/CameronBardell"
+  },
+  {
+    "handle": "RoccoSangellino",
+    "name": "Rocco Sangellino",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1388602894258114561/LYpjcAVx_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/RoccoSangellino"
+  },
+  {
+    "handle": "TylerMKing",
+    "name": "Tyler King",
+    "photoUrl": "https://pbs.twimg.com/profile_images/621451795886247936/yaHghXsQ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/TylerMKing"
+  },
+  {
+    "handle": "Insharamin",
+    "name": "Insha",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1468474545891774464/jENKPsRG_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Insharamin"
+  },
+  {
+    "handle": "htmleverything",
+    "name": "Mike @ HTML All The Things Podcast",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1435430915216486403/-tCB3VZe_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/htmleverything"
+  },
+  {
+    "handle": "asbluecio",
+    "name": "Angie ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1464829652372008969/ZNeOD7M4_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/asbluecio"
+  },
+  {
+    "handle": "rothgar",
+    "name": "Justin Garrison",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1335993178256601088/qGeS1IAa_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/rothgar"
+  },
+  {
+    "handle": "khazifire",
+    "name": "Dan ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1453064439444303872/64Mmkkg9_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/khazifire"
+  },
+  {
+    "handle": "edanbenatar",
+    "name": "Edan Ben-Atar ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1412761083849457664/lsGkrZIQ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/edanbenatar"
+  },
+  {
+    "handle": "JessicaCregg",
+    "name": "Jessica ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1461051460339306498/Fe5ImZc0_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/JessicaCregg"
+  },
+  {
+    "handle": "TheN0rthC0le",
+    "name": "Oscar ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1348152999231819776/60ra992a_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/TheN0rthC0le"
+  },
+  {
+    "handle": "_ronnieTech",
+    "name": "Ronnie Lee",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1456509912524070916/7ZjGRBCL_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/_ronnieTech"
+  },
+  {
+    "handle": "scholz_felix",
+    "name": "𝗙𝗲𝗹𝗶𝘅 𝗦𝗰𝗵𝗼𝗹𝘇 ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1345858704101543938/OXk3eIyq_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/scholz_felix"
+  },
+  {
+    "handle": "AdamJRochette",
+    "name": "Adam Rochette",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1429526937588928516/KoI2LZ3M_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/AdamJRochette"
+  },
+  {
+    "handle": "kreatific",
+    "name": "Marcin Piekarski",
+    "photoUrl": "https://pbs.twimg.com/profile_images/540107597076897792/XGj8yppZ_bigger.jpeg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/kreatific"
+  },
+  {
+    "handle": "suprabhasupi",
+    "name": "Suprabha",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1393266646970605568/MNrxqmm9_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/suprabhasupi"
+  },
+  {
+    "handle": "ceeoreo_",
+    "name": "ceora",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1417492250662252555/BmCHo4zC_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ceeoreo_"
+  },
+  {
+    "handle": "noahkagan",
+    "name": "Noah Kagan",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478394247388839938/-kAchwCq_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/noahkagan"
+  },
+  {
+    "handle": "ksorv_",
+    "name": "Sörv",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1391757335886843906/i43o1RMb_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ksorv_"
+  },
+  {
+    "handle": "antoomartini",
+    "name": "Maria Antonella ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1399030107923169280/MjGmwx4h_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/antoomartini"
+  },
+  {
+    "handle": "valeforero01",
+    "name": "Valentina Forero",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1449529127690723329/_feJlnX4_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/valeforero01"
+  },
+  {
+    "handle": "BhosalePratim",
+    "name": "Pratim",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1456843479900823553/NVG0emL8_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/BhosalePratim"
+  },
+  {
+    "handle": "moodyarrow",
+    "name": "Prateek Maheshwari ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1420698940752629760/v1WyT--V_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/moodyarrow"
+  },
+  {
+    "handle": "syedmuzzammil15",
+    "name": "Syed Muzzammil",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1418636878081708034/9iVdbxQR_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/syedmuzzammil15"
+  },
+  {
+    "handle": "growthcurrency",
+    "name": " Dylan is Teaching Marketing to Creators ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478024035883651072/Nf1MYJ6j_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/growthcurrency"
+  },
+  {
+    "handle": "tadaspetra",
+    "name": "Tadas Petra",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1455605618853699585/H-niCazg_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/tadaspetra"
+  },
+  {
+    "handle": "hey_yogini",
+    "name": "Yogini Bende",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1396122680328265730/8QeEvjOp_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/hey_yogini"
+  },
+  {
+    "handle": "damengchen",
+    "name": "Damon Chen",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481295009635004416/G2BRTnD8_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/damengchen"
+  },
+  {
+    "handle": "JavaScriptCoff1",
+    "name": "JavaScript",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1276906175322300423/sf0aKAAy_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/JavaScriptCoff1"
+  },
+  {
+    "handle": "musing_monica",
+    "name": "Monica",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478704922556190721/pS9aJdmQ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/musing_monica"
+  },
+  {
+    "handle": "heyandrewc",
+    "name": "Andrew ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1377725148321603585/u3WD2D9i_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/heyandrewc"
+  },
+  {
+    "handle": "aaditsh",
+    "name": "Aadit Sheth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1432060248622342155/Ox57z7LK_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/aaditsh"
+  },
+  {
+    "handle": "jessievbreugel",
+    "name": "Jessie | Personal Branding for Creators",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1420751410807726086/aTYOKDEx_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/jessievbreugel"
+  },
+  {
+    "handle": "anniebombanie_",
+    "name": "Annie",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1479900767188312065/pQNHPtzs_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/anniebombanie_"
+  },
+  {
+    "handle": "Aathiraa08",
+    "name": "Aathira",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1430347802601680897/F9tfKOXM_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Aathiraa08"
+  },
+  {
+    "handle": "KassandraSanch",
+    "name": "Kass ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1435318001478389762/We05XU63_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/KassandraSanch"
+  },
+  {
+    "handle": "_MitchellRomney",
+    "name": "Mitchell Romney",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1346053908926369794/yKqM8EMj_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/_MitchellRomney"
+  },
+  {
+    "handle": "kvncnls",
+    "name": "Kevin Canlas ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476032308561989635/UqKs7R8H_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/kvncnls"
+  },
+  {
+    "handle": "coolprobn",
+    "name": "Prabin Poudel",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1361911429394169859/0ifBzTTp_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/coolprobn"
+  },
+  {
+    "handle": "michaelketzer",
+    "name": "Michael Ketzer ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1450176294197600260/AZf1hZFu_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/michaelketzer"
+  },
+  {
+    "handle": "DailyDevTips1",
+    "name": "Chris Bongers ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477870414877577219/4pbfstej_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/DailyDevTips1"
+  },
+  {
+    "handle": "TrevorLongino",
+    "name": "Trevor Longino",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1390478572117188610/iHo3_4M9_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/TrevorLongino"
+  },
+  {
+    "handle": "mmgondran",
+    "name": "Michelle Gondran",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1437566079040110597/BZr4ATX6_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/mmgondran"
+  },
+  {
+    "handle": "jovchem",
+    "name": "Jov Mit",
+    "photoUrl": "https://pbs.twimg.com/profile_images/956665502579003397/W_GD3IIb_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/jovchem"
+  },
+  {
+    "handle": "samhrncir",
+    "name": "Sam Hrncir",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1373808952740306948/_hI68kMa_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/samhrncir"
+  },
+  {
+    "handle": "MarisaBrantley",
+    "name": "Marisa ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476403903289778182/f3G59mdk_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/MarisaBrantley"
+  },
+  {
+    "handle": "dabit3",
+    "name": "nader dabit (",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1467551717961179145/D272PwD2_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dabit3"
+  },
+  {
+    "handle": "ayushtweetshere",
+    "name": "Ayush ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477864330502631427/S6NXZPA5_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ayushtweetshere"
+  },
+  {
+    "handle": "lovelacecoding",
+    "name": "Lou",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477386656839839753/O6EpKE4F_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/lovelacecoding"
+  },
+  {
+    "handle": "photonoty_codes",
+    "name": "maaike",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1471399785265606658/Z-tgfQh__bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/photonoty_codes"
+  },
+  {
+    "handle": "marcelcruz",
+    "name": "Marcel Cruz",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1381753875984703491/_bgyjz_d_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/marcelcruz"
+  },
+  {
+    "handle": "0xsohom",
+    "name": "sohom(",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481305215869779970/wslG-fwz_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/0xsohom"
+  },
+  {
+    "handle": "apopoutsis",
+    "name": "Alex Popoutsis ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1410719348331880450/uiHbhykN_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/apopoutsis"
+  },
+  {
+    "handle": "azalCodes",
+    "name": "Azal Abedi",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1414649907856613389/pAPyI6si_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/azalCodes"
+  },
+  {
+    "handle": "AlexLlullTW",
+    "name": "Alex Llull ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1256152703899664384/xQ0g2bda_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/AlexLlullTW"
+  },
+  {
+    "handle": "ConnorPhee",
+    "name": "Connor Phee",
+    "photoUrl": "https://pbs.twimg.com/profile_images/926993760952647682/2Re72rq5_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ConnorPhee"
+  },
+  {
+    "handle": "thecodercoder",
+    "name": "Coder Coder",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1237741639193571328/LryLEBqW_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/thecodercoder"
+  },
+  {
+    "handle": "sumusiriwardana",
+    "name": "Sumudu Siriwardana",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477532756175327235/FxKOIqKH_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/sumusiriwardana"
+  },
+  {
+    "handle": "themikelamb",
+    "name": "Mike Lamb | Living Centered",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1435276498676568067/0KwOJx2X_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/themikelamb"
+  },
+  {
+    "handle": "ryancwalkr",
+    "name": "Ryan Walker",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1457923630092935170/DgSedYpg_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ryancwalkr"
+  },
+  {
+    "handle": "iamsegunajibola",
+    "name": "Segun Ajibola ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1445193171869306882/-YNUcYSO_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/iamsegunajibola"
+  },
+  {
+    "handle": "KritikaPattalam",
+    "name": "Kritika ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1432790142889168899/o0sCWWhl_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/KritikaPattalam"
+  },
+  {
+    "handle": "catalinmpit",
+    "name": "Pit",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1420288123729231874/ygNOzKbc_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/catalinmpit"
+  },
+  {
+    "handle": "codewithibrahim",
+    "name": "Ibrahim",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1467926069890236424/O8bMvljg_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/codewithibrahim"
+  },
+  {
+    "handle": "growwithjoy",
+    "name": "Omotosho Joy",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1465265750797598726/a2VsS5kp_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/growwithjoy"
+  },
+  {
+    "handle": "UbahTheBuilder",
+    "name": "Kingsley Ubah",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1436372553027788801/-omdgx8X_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/UbahTheBuilder"
+  },
+  {
+    "handle": "nickbulljs",
+    "name": "NICK BULL",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1356185288037576705/FB8ygcTO_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/nickbulljs"
+  },
+  {
+    "handle": "iamaponte",
+    "name": "Erik ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1475925805796626433/TyRDbw2I_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/iamaponte"
+  },
+  {
+    "handle": "Massy371",
+    "name": "Massy",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1455885384890699787/X6I7E8nv_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Massy371"
+  },
+  {
+    "handle": "Saeid189",
+    "name": "Saeid",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1464734424193540102/QosoB8AU_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Saeid189"
+  },
+  {
+    "handle": "javovaz",
+    "name": "javovaz ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1417510279898927113/y6ueTcIA_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/javovaz"
+  },
+  {
+    "handle": "simonpaix",
+    "name": "Mari Simon coding live ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1443768704295079953/g8y0Gt-T_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/simonpaix"
+  },
+  {
+    "handle": "eladsc",
+    "name": "Elad Shechter",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1407078194407215109/EgXW2vpF_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/eladsc"
+  },
+  {
+    "handle": "SauravPurohit4",
+    "name": "Saurav Purohit",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476581372751872004/KN2Zy9Bk_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/SauravPurohit4"
+  },
+  {
+    "handle": "dr",
+    "name": "Dan Rowden ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1295705469126729728/nNU3Zxs-_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dr"
+  },
+  {
+    "handle": "farez",
+    "name": "Farez ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1410470567128354816/qJtcV8PU_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/farez"
+  },
+  {
+    "handle": "EmmaAmechi",
+    "name": "Emmanuel Chukwunenye Amechi",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1260835882619359232/O3RekRdo_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/EmmaAmechi"
+  },
+  {
+    "handle": "HemliCoding",
+    "name": "Will Archambault",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1417203592977686535/KpT4HVhv_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/HemliCoding"
+  },
+  {
+    "handle": "MamdouhMoemin",
+    "name": "Moemin Mamdouh ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1365735341634764803/OppxnY7b_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/MamdouhMoemin"
+  },
+  {
+    "handle": "sabrinaesaquino",
+    "name": "Sabrina",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478635701184962561/GjFWpw5E_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/sabrinaesaquino"
+  },
+  {
+    "handle": "Baccasfoweva",
+    "name": "Dylan Schwindt",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477384827406098438/2K05iWPu_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Baccasfoweva"
+  },
+  {
+    "handle": "Juanzenweb",
+    "name": "Juan Alvarez ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1411372759280726019/F6ucHsxL_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Juanzenweb"
+  },
+  {
+    "handle": "linuz90",
+    "name": "fabrizio rinaldi",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1440297746246684676/WSgdNKtk_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/linuz90"
+  },
+  {
+    "handle": "frankdilo",
+    "name": "francesco di lorenzo",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1455117056916000771/OFy3LMUP_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/frankdilo"
+  },
+  {
+    "handle": "JennyMaMTL",
+    "name": "Jenny Ma",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1288845300443086848/7yUj0fD9_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/JennyMaMTL"
+  },
+  {
+    "handle": "christinehampt",
+    "name": "Christine ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1434208408098517000/Iy7EQORZ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/christinehampt"
+  },
+  {
+    "handle": "LauraToddCodes",
+    "name": "Laura Todd",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1370693324512837635/wSKanN3o_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/LauraToddCodes"
+  },
+  {
+    "handle": "ewainy",
+    "name": "Emma",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1475537089001410562/fPExe3N0_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ewainy"
+  },
+  {
+    "handle": "LinuxSeb",
+    "name": "Seb ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1480293824874237953/FhxK_sAu_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/LinuxSeb"
+  },
+  {
+    "handle": "dotproto",
+    "name": "Simeon.__proto__ - BLM",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1861585267/nyantocat_1__bigger.gif",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dotproto"
+  },
+  {
+    "handle": "TheTechRally",
+    "name": "TechRally ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1357948565516148736/goTskqLe_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/TheTechRally"
+  },
+  {
+    "handle": "IAmAndrewKirby",
+    "name": "Andrew Kirby",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1432389116268892166/OwNmYFtS_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/IAmAndrewKirby"
+  },
+  {
+    "handle": "CodeWithJanine",
+    "name": "Janine ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1468402451040677893/Lh1d0ufJ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/CodeWithJanine"
+  },
+  {
+    "handle": "brandiCodes",
+    "name": "brandiCodes ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1453553266718089216/ecPBTnrn_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/brandiCodes"
+  },
+  {
+    "handle": "gaijin_web_dev",
+    "name": "Frankie",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1417907442877411330/ZtsALHnR_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/gaijin_web_dev"
+  },
+  {
+    "handle": "drkcsm",
+    "name": "Derek Smith",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1242652292848877568/ejB9ygcY_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/drkcsm"
+  },
+  {
+    "handle": "KilianPoulinTW",
+    "name": "Kilian Poulin",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481321101414506499/OZgRzd5B_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/KilianPoulinTW"
+  },
+  {
+    "handle": "heysauwhy",
+    "name": "Sau ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1418164786525732864/1ISZqE_3_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/heysauwhy"
+  },
+  {
+    "handle": "victoriadotdev",
+    "name": "Victoria.dev | Skills for Tech Leaders",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1452357624696123400/JsIq8EZR_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/victoriadotdev"
+  },
+  {
+    "handle": "dagorenouf",
+    "name": "Dagobert Renouf",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478017354026082305/xQ1AVMq4_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dagorenouf"
+  },
+  {
+    "handle": "yannhulot1",
+    "name": "Yann Hulot",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1410723867589431301/5Mg6Q1kK_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/yannhulot1"
+  },
+  {
+    "handle": "rfelix",
+    "name": "Richard Felix",
+    "photoUrl": "https://pbs.twimg.com/profile_images/958198625938518016/rXpVgTZI_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/rfelix"
+  },
+  {
+    "handle": "louispereira",
+    "name": "Louis Pereira",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1446012241636036608/Ei7JbJex_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/louispereira"
+  },
+  {
+    "handle": "SasaCocic",
+    "name": "Saša ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1445716972868669441/9Z8eXGYA_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/SasaCocic"
+  },
+  {
+    "handle": "codewithprisha",
+    "name": "Prisha - Aspiring Web Dev ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1420068650883588099/SiyvNID9_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/codewithprisha"
+  },
+  {
+    "handle": "whoistamir",
+    "name": "Tamir",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1442567171817631744/bPFuSijb_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/whoistamir"
+  },
+  {
+    "handle": "matt_pigs",
+    "name": "Matt (Pigs)",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1403340931303084035/gYKsxsYS_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/matt_pigs"
+  },
+  {
+    "handle": "eyeshreya",
+    "name": "Shreya",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476538062393864193/nUtUcY3q_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/eyeshreya"
+  },
+  {
+    "handle": "tibo_maker",
+    "name": "Tibo",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1421725545017004032/Ge7H8BDx_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/tibo_maker"
+  },
+  {
+    "handle": "MrAhmadAwais",
+    "name": "AWAIS",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1436384085157371906/XL60VTpr_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/MrAhmadAwais"
+  },
+  {
+    "handle": "fmontes",
+    "name": "Freddy Montes",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1322660411225874435/R4xkBm3w_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/fmontes"
+  },
+  {
+    "handle": "saastrash",
+    "name": "SaaS Trash ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1475125047446544389/vki-Fko2_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/saastrash"
+  },
+  {
+    "handle": "dk_the_human",
+    "name": "DK ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1103531583204540416/SLfanx9N_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dk_the_human"
+  },
+  {
+    "handle": "MrConerMurphy",
+    "name": "Coner Murphy",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1469306856833224704/56f99ujk_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/MrConerMurphy"
+  },
+  {
+    "handle": "CodingParamedic",
+    "name": "The Coding Paramedic",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1443352772976459776/9x3YzjGo_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/CodingParamedic"
+  },
+  {
+    "handle": "alexan_dev",
+    "name": "Alex ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1462069961115975684/bZ7clpx3_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/alexan_dev"
+  },
+  {
+    "handle": "TAbrodi",
+    "name": "Tiger Abrodi ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1270983926874550272/3ei7dW8d_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/TAbrodi"
+  },
+  {
+    "handle": "reetahUzoma",
+    "name": "tech-linist",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1403081289889112064/7UhLBMc4_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/reetahUzoma"
+  },
+  {
+    "handle": "ash_lmb",
+    "name": "Ash Lamb",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1450169509701095431/gy1SsfGm_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ash_lmb"
+  },
+  {
+    "handle": "MaulikMarkan",
+    "name": "Maulik Markan",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1424692763124113410/9coWpo0e_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/MaulikMarkan"
+  },
+  {
+    "handle": "chrisjhutchings",
+    "name": "Chris Hutchings",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1300103500555264000/brxckSvr_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/chrisjhutchings"
+  },
+  {
+    "handle": "codemonk6",
+    "name": "Arafat",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1459657422725865480/ne8Fyr7r_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/codemonk6"
+  },
+  {
+    "handle": "codingknite",
+    "name": "Joel P. Mugalu",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1480241316651012096/iDxiNw_X_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/codingknite"
+  },
+  {
+    "handle": "algerianboy_kab",
+    "name": "Belkacem ⵣ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1439591293399732227/VELM4yhm_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/algerianboy_kab"
+  },
+  {
+    "handle": "robertodigital_",
+    "name": "Roberto Robles ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481361514720526336/uLWKcsxt_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/robertodigital_"
+  },
+  {
+    "handle": "_YolandaHaynes",
+    "name": "Yolanda Haynes",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1386031824002899968/AflX7P7L_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/_YolandaHaynes"
+  },
+  {
+    "handle": "MGoncalvesDev",
+    "name": "Monica Goncalves",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1362147672254263305/qJKuoOPZ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/MGoncalvesDev"
+  },
+  {
+    "handle": "cynthiamanor",
+    "name": "Cynthia Gail Manor",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1313728242357080066/lKCUVv13_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/cynthiamanor"
+  },
+  {
+    "handle": "kaarthikhere",
+    "name": "Kaarthik (he/him)",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1450875091579850759/-aomX-Bg_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/kaarthikhere"
+  },
+  {
+    "handle": "TheJackForge",
+    "name": "Jack Forge",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1456489218687967232/yYyNv0OB_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/TheJackForge"
+  },
+  {
+    "handle": "VittoStack",
+    "name": "Vitto Rivabella ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476905990855475205/VskPkdVv_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/VittoStack"
+  },
+  {
+    "handle": "florinpop1705",
+    "name": "Florin Pop ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1440624750808625171/7kSNddJC_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/florinpop1705"
+  },
+  {
+    "handle": "AprilynneA",
+    "name": "Aprilynne Alter",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476592259051126784/UwZl0cb3_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/AprilynneA"
+  },
+  {
+    "handle": "PocketBryan",
+    "name": " Bryan",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1473138982275805187/Shf0Snfb_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/PocketBryan"
+  },
+  {
+    "handle": "katherinecodes",
+    "name": "Katherine Peterson",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1354163904213966848/4dOl8di8_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/katherinecodes"
+  },
+  {
+    "handle": "jasonbosco",
+    "name": "Jason Bosco",
+    "photoUrl": "https://pbs.twimg.com/profile_images/899173957760303104/-5deN0Gm_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/jasonbosco"
+  },
+  {
+    "handle": "chriscoyier",
+    "name": "Chris Coyier",
+    "photoUrl": "https://pbs.twimg.com/profile_images/883049860332609537/IsUISvAq_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/chriscoyier"
+  },
+  {
+    "handle": "TerminalLand",
+    "name": "Terminal Land",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1315077306096984065/BPzd0Xg4_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/TerminalLand"
+  },
+  {
+    "handle": "elonmusk",
+    "name": "Elon Musk",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1474910968157249536/FS8-70Ie_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/elonmusk"
+  },
+  {
+    "handle": "Mike_Andreuzza",
+    "name": "𝙈𝙞𝙘𝙝𝙖𝙚𝙡 𝘼𝙣𝙙𝙧𝙚𝙪𝙯𝙯𝙖",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477750722141855750/3uNKZnu-_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/Mike_Andreuzza"
+  },
+  {
+    "handle": "JustinSaaS",
+    "name": "Justin Welsh",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1365425625616556045/NDhia9nF_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/JustinSaaS"
+  },
+  {
+    "handle": "sdcrane",
+    "name": "Stuart Crane",
+    "photoUrl": "https://pbs.twimg.com/profile_images/959228130505494528/yJq_A7h1_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/sdcrane"
+  },
+  {
+    "handle": "BHolmesDev",
+    "name": "Ben Holmes - Slinkity stan",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1131721513026170883/kvrKqlHc_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/BHolmesDev"
+  },
+  {
+    "handle": "dinkydani21",
+    "name": "Danielle",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1445343020606447617/MiyIwza7_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dinkydani21"
+  },
+  {
+    "handle": "alexwestco",
+    "name": "Alex West ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1405211819954741250/ovuH859U_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/alexwestco"
+  },
+  {
+    "handle": "lunchbag",
+    "name": "Jen",
+    "photoUrl": "https://pbs.twimg.com/profile_images/785590346717683712/7j65ybTW_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/lunchbag"
+  },
+  {
+    "handle": "czue",
+    "name": "czue",
+    "photoUrl": "https://pbs.twimg.com/profile_images/844854605246738434/6YV7M9Um_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/czue"
+  },
+  {
+    "handle": "jasonfried",
+    "name": "Jason Fried",
+    "photoUrl": "https://pbs.twimg.com/profile_images/3413742921/0e9ef95e76c4a965b9b177fa2267d6c1_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/jasonfried"
+  },
+  {
+    "handle": "dhh",
+    "name": "DHH",
+    "photoUrl": "https://pbs.twimg.com/profile_images/975876868455809024/eK7mDppU_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dhh"
+  },
+  {
+    "handle": "ania_kubow",
+    "name": "Ania Kubów #JavaScriptGames",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1340988467417927682/ifHWLY9C_bigger.png",
+    "keep": null,
+    "profileUrl": "https://twitter.com/ania_kubow"
+  },
+  {
+    "handle": "robfitz",
+    "name": "Rob Fitzpatrick ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/623124614936403968/T4Gofb2S_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/robfitz"
+  },
+  {
+    "handle": "dennisivy11",
+    "name": "Dennis Ivy",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1408476480284282882/ZX18Qknx_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/dennisivy11"
+  },
+  {
+    "handle": "PierreDeWulf",
+    "name": "Pierre de Wulf",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1390368056501837835/0gAN4EhQ_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/PierreDeWulf"
+  },
+  {
+    "handle": "curtiseinsmann",
+    "name": "Curtis Einsmann",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1333174208659132424/DVthCBqN_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/curtiseinsmann"
+  },
+  {
+    "handle": "svenjarossig",
+    "name": "Sveni",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1430911181493923850/BDbnRD_L_bigger.jpg",
+    "keep": null,
+    "profileUrl": "https://twitter.com/svenjarossig"
+  },
+  {
+    "handle": "t",
+    "name": "Tantek",
+    "photoUrl": "https://pbs.twimg.com/profile_images/423350922408767488/nlA_m2WH_bigger.jpeg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/t"
+  },
+  {
+    "handle": "maneetpaul",
+    "name": "Maneetpaul Singh",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1310681171521679364/70Qn2gav_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/maneetpaul"
+  },
+  {
+    "handle": "morganhousel",
+    "name": "Morgan Housel",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1276544980740214785/GQUTaQBI_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/morganhousel"
+  },
+  {
+    "handle": "CatWorkers",
+    "name": "cats with jobs",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1438092257232662529/-CLJTnKh_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/CatWorkers"
+  },
+  {
+    "handle": "InfiniDream1",
+    "name": "Bruce ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1412381211973070851/6kjNoqr6_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/InfiniDream1"
+  },
+  {
+    "handle": "stewfortier",
+    "name": "Stew Fortier",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1282484097583943681/DjLtd68s_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/stewfortier"
+  },
+  {
+    "handle": "tinyprojectsdev",
+    "name": "Ben Stokes (Tiny Projects",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1272434178886373376/T_l87zV4_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/tinyprojectsdev"
+  },
+  {
+    "handle": "thedankoe",
+    "name": "DAN KOE",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1466739377703321600/wuarHvbK_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/thedankoe"
+  },
+  {
+    "handle": "thecaitcode",
+    "name": "Caitlyn",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1129433068412985344/M9rDd0uk_bigger.png",
+    "keep": true,
+    "profileUrl": "https://twitter.com/thecaitcode"
+  },
+  {
+    "handle": "jwginn",
+    "name": "Jeremy Ginn ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1465763696253095936/W8o_psvc_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/jwginn"
+  },
+  {
+    "handle": "zen_habits",
+    "name": "Leo Babauta",
+    "photoUrl": "",
+    "keep": true,
+    "profileUrl": "https://twitter.com/zen_habits"
+  },
+  {
+    "handle": "mkobach",
+    "name": "Matthew Kobach",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1374075536595505154/1_1jV_AF_bigger.png",
+    "keep": true,
+    "profileUrl": "https://twitter.com/mkobach"
+  },
+  {
+    "handle": "Prathkum",
+    "name": "Pratham",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1418652395119153153/dvMUbHmM_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/Prathkum"
+  },
+  {
+    "handle": "DThompsonDev",
+    "name": "Danny Thompson",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1478589040182153218/0XGGg3E5_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/DThompsonDev"
+  },
+  {
+    "handle": "scott_bair",
+    "name": "Scott Bair",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1449505425255124999/aQl5bHHD_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/scott_bair"
+  },
+  {
+    "handle": "fortelabs",
+    "name": "Tiago Forte",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1195467811037990912/a_G_zmVA_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/fortelabs"
+  },
+  {
+    "handle": "_rchase_",
+    "name": "Reilly Chase ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1087867518969135109/r8AUtgJ4_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/_rchase_"
+  },
+  {
+    "handle": "jlengstorf",
+    "name": "Jason Lengstorf",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1389641594026872834/umCD8U2d_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/jlengstorf"
+  },
+  {
+    "handle": "GraemeCrawley_",
+    "name": "Graeme Crawley",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1445035472674299907/PHrwGGHj_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/GraemeCrawley_"
+  },
+  {
+    "handle": "ObedParla",
+    "name": "Obed Parlapiano",
+    "photoUrl": "https://pbs.twimg.com/profile_images/700278643273113600/HJoE9aHz_bigger.png",
+    "keep": true,
+    "profileUrl": "https://twitter.com/ObedParla"
+  },
+  {
+    "handle": "jspector",
+    "name": "Josh Spector",
+    "photoUrl": "https://pbs.twimg.com/profile_images/849049679291494400/lRql_MrZ_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/jspector"
+  },
+  {
+    "handle": "dwilliamriggs",
+    "name": "davidwriggs",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1479254693490700291/SkOZekuH_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/dwilliamriggs"
+  },
+  {
+    "handle": "ToheebDotCom",
+    "name": "2 ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1427263758238457863/zGI9PlP9_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/ToheebDotCom"
+  },
+  {
+    "handle": "punk6529",
+    "name": "6529",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1440017111531855879/A4p6F07H_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/punk6529"
+  },
+  {
+    "handle": "headwaterluke",
+    "name": "Luke Adler ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1481312664236146689/FZrxkanR_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/headwaterluke"
+  },
+  {
+    "handle": "engineering_bae",
+    "name": "Taylor Poindexter",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1447943097661415430/QCnZ8Uof_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/engineering_bae"
+  },
+  {
+    "handle": "JamesClear",
+    "name": "James Clear",
+    "photoUrl": "https://pbs.twimg.com/profile_images/958932211973152769/FUpkmn4u_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/JamesClear"
+  },
+  {
+    "handle": "samanthademers",
+    "name": "Samantha | Creator Mindset + Motivation",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1359266211478048770/dIMsYNeq_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/samanthademers"
+  },
+  {
+    "handle": "RandallKanna",
+    "name": "Randall",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1431335838122602497/D3DF_PYX_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/RandallKanna"
+  },
+  {
+    "handle": "ladyofcode",
+    "name": "Tabs",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1418034743254274049/-6Ot8av6_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/ladyofcode"
+  },
+  {
+    "handle": "TerribleMaps",
+    "name": "Terrible Maps",
+    "photoUrl": "https://pbs.twimg.com/profile_images/695741339326160900/CalT3T7Y_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/TerribleMaps"
+  },
+  {
+    "handle": "ChrisFerdinandi",
+    "name": "Chris Ferdinandi ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/478908129724223488/TcJMj5mb_bigger.jpeg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/ChrisFerdinandi"
+  },
+  {
+    "handle": "Jennabot5000",
+    "name": "Jenna ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1366761745814069253/9PDlNxfv_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/Jennabot5000"
+  },
+  {
+    "handle": "Miles_NFT",
+    "name": "Miles",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1480617836196155393/AGpHfUDr_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/Miles_NFT"
+  },
+  {
+    "handle": "sofia_baezzato",
+    "name": "Sofia Baezzato",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1358777323944873989/3Zmgzf8s_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/sofia_baezzato"
+  },
+  {
+    "handle": "SaveYourSons",
+    "name": "Save Your Sons",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1464278028788371484/crSCPQzq_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/SaveYourSons"
+  },
+  {
+    "handle": "XScoder",
+    "name": "Frank Eno ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1475330514034774022/poL_YydA_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/XScoder"
+  },
+  {
+    "handle": "programmertobe",
+    "name": "Programmer to be",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1423344110547705865/kthaMLdW_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/programmertobe"
+  },
+  {
+    "handle": "NiharikaSodhi",
+    "name": "Niharikaa Kaur Sodhi",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1460946128845737997/86Hh9qDk_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/NiharikaSodhi"
+  },
+  {
+    "handle": "swyx",
+    "name": "swyx",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1456506127961640962/iM2Hf8du_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/swyx"
+  },
+  {
+    "handle": "Josh_ONeill1",
+    "name": "Josh O'Neill",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1450376317812281344/fDGcr2NN_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/Josh_ONeill1"
+  },
+  {
+    "handle": "vinidsmonteiro",
+    "name": "Vinicius Monteiro",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1480133831290200066/xoyb3O_z_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/vinidsmonteiro"
+  },
+  {
+    "handle": "AliAbdaal",
+    "name": "Ali Abdaal",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1157059189161619456/Ke7LQ7NO_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/AliAbdaal"
+  },
+  {
+    "handle": "andvand",
+    "name": "Andrew",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476723636929277970/gb3-rJQs_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/andvand"
+  },
+  {
+    "handle": "threepointone",
+    "name": "sunil pai, inc.",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1472326452804820994/cAMx47lL_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/threepointone"
+  },
+  {
+    "handle": "camiinthisthang",
+    "name": "camiinthisthang.eth",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1476616778557972481/nrwGYYC7_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/camiinthisthang"
+  },
+  {
+    "handle": "pokecoder",
+    "name": "Ale ☻",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1468843136852107266/X7VdenZb_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/pokecoder"
+  },
+  {
+    "handle": "KatyCodesStuff",
+    "name": "Katy ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1436973689115906048/kkvYOP3C_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/KatyCodesStuff"
+  },
+  {
+    "handle": "allysedotdev",
+    "name": " allyse",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1475135334551736320/F-TyQ8N3_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/allysedotdev"
+  },
+  {
+    "handle": "skino2020",
+    "name": "skino",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1268200667426033667/Jltxi94S_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/skino2020"
+  },
+  {
+    "handle": "dickiebush",
+    "name": "Dickie Bush ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1369375779478462473/oA5oDI8V_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/dickiebush"
+  },
+  {
+    "handle": "businessbarista",
+    "name": "Alex Lieberman (",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1474091461855612931/OvkvitXA_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/businessbarista"
+  },
+  {
+    "handle": "natmiletic",
+    "name": "Nat Miletic",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1377680126834450432/L2BxGCMT_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/natmiletic"
+  },
+  {
+    "handle": "planet_katie",
+    "name": "Planet Katie ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1177384472288923650/WRhq8xuw_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/planet_katie"
+  },
+  {
+    "handle": "MattVisiwig",
+    "name": "Matt Visiwig",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1448719621926838274/YF1pxvsi_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/MattVisiwig"
+  },
+  {
+    "handle": "jayclouse",
+    "name": "Jay Clouse (146/365)",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1477042838336679944/OBy1QEMs_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/jayclouse"
+  },
+  {
+    "handle": "stephsmithio",
+    "name": "Steph Smith",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1079803857264205835/T2ZDra6d_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/stephsmithio"
+  },
+  {
+    "handle": "xodewriter",
+    "name": "Jay ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1427599581039235075/N1EPAhU-_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/xodewriter"
+  },
+  {
+    "handle": "IsaOslo",
+    "name": "Isabella",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1414169547976941569/CEjxdBk9_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/IsaOslo"
+  },
+  {
+    "handle": "FrancescoCiull4",
+    "name": "Francesco Ciulla",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1455304315032281092/2gCjgXYr_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/FrancescoCiull4"
+  },
+  {
+    "handle": "jsjoeio",
+    "name": "Joe Previte",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1274526737523564544/9sF1k37k_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/jsjoeio"
+  },
+  {
+    "handle": "BrandonGuard99",
+    "name": "Brandon Guard",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1452751745298452480/dTUVnQTs_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/BrandonGuard99"
+  },
+  {
+    "handle": "kayphrosh",
+    "name": "Kayphrosh",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1398270960067923978/ctglS5dv_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/kayphrosh"
+  },
+  {
+    "handle": "hybrid_alex",
+    "name": "Alex Carpenter",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1310191604200878081/mFCXchP__bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/hybrid_alex"
+  },
+  {
+    "handle": "boketto_yz",
+    "name": "Rubén",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1459462118491803652/9QXJug67_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/boketto_yz"
+  },
+  {
+    "handle": "Julian",
+    "name": "Julian Shapiro",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1095918960187342848/jyFGwWyv_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/Julian"
+  },
+  {
+    "handle": "taniarascia",
+    "name": "Tania",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1413331583218634752/HnrLTzso_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/taniarascia"
+  },
+  {
+    "handle": "JordonBurman",
+    "name": "Jordon",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1374190763408568320/6pYBk71F_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/JordonBurman"
+  },
+  {
+    "handle": "jdnoc",
+    "name": "Jordan O'Connor",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1442952411631403012/TFfaqt2E_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/jdnoc"
+  },
+  {
+    "handle": "david_perell",
+    "name": "David Perell",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1341406620107091968/Cxxf4Uf5_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/david_perell"
+  },
+  {
+    "handle": "ShaneAParrish",
+    "name": "Shane Parrish",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1253758424292171778/48gD7Hne_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/ShaneAParrish"
+  },
+  {
+    "handle": "Claryssarynders",
+    "name": "Claryssa Rynders",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1150568441876631552/pAT6iqQ2_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/Claryssarynders"
+  },
+  {
+    "handle": "pauxdsantamaria",
+    "name": "Paula Santamaría",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1389721606126194691/NT9WHP8r_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/pauxdsantamaria"
+  },
+  {
+    "handle": "emile_hay",
+    "name": "ᴇᴍɪʟᴇ ʜᴀʏ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1052112624710762496/bVL1GNuo_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/emile_hay"
+  },
+  {
+    "handle": "breoco",
+    "name": "Brennen O’Connor",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1318987271614439426/FtrqyAd6_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/breoco"
+  },
+  {
+    "handle": "SahilBloom",
+    "name": "Sahil Bloom",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1462779172451983370/xAsgPikz_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/SahilBloom"
+  },
+  {
+    "handle": "AlexandriasTech",
+    "name": "Alexandria ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1475530552614678528/ReiBeaTz_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/AlexandriasTech"
+  },
+  {
+    "handle": "allthecode_",
+    "name": "Simon Barker",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1380875229434630148/5BZ_XkeZ_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/allthecode_"
+  },
+  {
+    "handle": "kylekrzeski",
+    "name": "Kyle Krzeski ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1418271585518198787/q71my3Xo_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/kylekrzeski"
+  },
+  {
+    "handle": "jonah_sc",
+    "name": "jonah",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1405691571471781895/mdEfygS6_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/jonah_sc"
+  },
+  {
+    "handle": "coding4tacos",
+    "name": "Taylor Wilkinson",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1372561586599161859/W_rosrFt_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/coding4tacos"
+  },
+  {
+    "handle": "calebporzio",
+    "name": "Caleb Porzio",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1373699471213797385/D4Hbnx09_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/calebporzio"
+  },
+  {
+    "handle": "davemcg3",
+    "name": " Heated by the warmth of my laptop",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1406804005532147714/kxPAIx53_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/davemcg3"
+  },
+  {
+    "handle": "bcomnes",
+    "name": "Bret",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1215683392282484736/TKlgj9Uu_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/bcomnes"
+  },
+  {
+    "handle": "zachleat",
+    "name": "Zach Leatherman",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1196791261233111040/iWVjazhO_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/zachleat"
+  },
+  {
+    "handle": "MeetKevon",
+    "name": "Kevon Cheung ",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1411331556602306565/5mGzJs3b_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/MeetKevon"
+  },
+  {
+    "handle": "ungatedcreative",
+    "name": "rob hardy",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1931299164/image_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/ungatedcreative"
+  },
+  {
+    "handle": "BenAPatton",
+    "name": "Ben Patton",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1371583461241323523/JbA7Wp7x_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/BenAPatton"
+  },
+  {
+    "handle": "OzolinsJanis",
+    "name": "Janis Ozolins",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1357931089583570946/1hDXcNai_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/OzolinsJanis"
+  },
+  {
+    "handle": "davegerhardt",
+    "name": "Dave Gerhardt",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1433881598898868225/SxI3bC84_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/davegerhardt"
+  },
+  {
+    "handle": "tom_hirst",
+    "name": "Tom Hirst",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1049977371871375360/x7Belwvv_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/tom_hirst"
+  },
+  {
+    "handle": "dvassallo",
+    "name": "Daniel Vassallo",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1251370705985302528/S3hD_wEU_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/dvassallo"
+  },
+  {
+    "handle": "monicalent",
+    "name": "Monica Lent",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1289172401834668032/_HByTEqv_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/monicalent"
+  },
+  {
+    "handle": "antfu7",
+    "name": "Anthony Fu",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1255727296532541440/iC5IubYd_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/antfu7"
+  },
+  {
+    "handle": "MyTurfSolutions",
+    "name": "Matt Byma",
+    "photoUrl": "https://pbs.twimg.com/profile_images/903695178061545472/Ry3Y_QVS_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/MyTurfSolutions"
+  },
+  {
+    "handle": "LaceyKesler",
+    "name": "Lacey",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1087071526371897344/DssZ68Oi_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/LaceyKesler"
+  },
+  {
+    "handle": "levelsio",
+    "name": "@levelsio",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1441044961957343232/Sl1U4tSw_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/levelsio"
+  },
+  {
+    "handle": "anafabrega11",
+    "name": "Ana Lorena Fabrega",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1397383930995744769/az7dP4am_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/anafabrega11"
+  },
+  {
+    "handle": "_rodrigomd",
+    "name": "Rodrigo",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1340648427496075265/VwZqDo4S_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/_rodrigomd"
+  },
+  {
+    "handle": "PrasoonPratham",
+    "name": "Pratham",
+    "photoUrl": "https://pbs.twimg.com/profile_images/1430826920623497219/7ITE1sWA_bigger.jpg",
+    "keep": true,
+    "profileUrl": "https://twitter.com/PrasoonPratham"
+  }
+]

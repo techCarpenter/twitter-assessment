@@ -1,0 +1,40 @@
+body {
+  font-size: 18px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.container > * {
+  margin: 0.25rem;
+  box-shadow: 5px 5px 30px 10px rgba(125, 123, 123, 0.15);
+  -webkit-box-shadow: 5px 5px 30px 10px rgba(125, 123, 123, 0.15);
+  -moz-box-shadow: 5px 5px 30px 10px rgba(125, 123, 123, 0.15);
+}
+
+img {
+  border-radius: 100%;
+  margin-right: 1rem;
+}
+
+a {
+  color: rgb(55, 52, 227);
+  display: inline-block;
+}
+
+li {
+  border-radius: 40px;
+  /* border: 1px solid #1e1e1e; */
+  padding: 0.5rem;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+li:hover {
+  background-color: rgba(55, 52, 227, 0.2);
+}
